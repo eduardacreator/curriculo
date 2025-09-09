@@ -1,0 +1,20 @@
+# Ignorar pastas do VSCode
+.vscode/
+
+# Ignorar arquivos do sistema Windows
+Thumbs.db
+Desktop.ini
+AppData/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
+
+# Ignorar node_modules (caso use Node.js futuramente)
+node_modules/
+
+# Ignorar arquivos ocultos do macOS
+.DS_Store
